@@ -10,3 +10,7 @@ test.csv
 .ipynb_checkpoints/Feature_Engineering-checkpoint.ipynb
 .ipynb_checkpoints/Kmeans_clustering-checkpoint.ipynb
 .ipynb_checkpoints/KNN-checkpoint.ipynb
+.ipynb_checkpoints/XGBoost-checkpoint.ipynb
+.ipynb_checkpoints/Logistic_regression-checkpoint.ipynb
+.ipynb_checkpoints/Naive_bayes-checkpoint.ipynb
+.ipynb_checkpoints/LightGBM-checkpoint.ipynb
